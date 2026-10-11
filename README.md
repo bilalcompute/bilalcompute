@@ -1,4 +1,5 @@
 ## Hi there 👋
+B.Sc. (Hons.) Computer Science & Applications student at Aligarh Muslim University (AMU). Currently learning C and Python, with an interest in software development, AI, and exploring the world of technology.
 
 <!--
 **bilalcompute/bilalcompute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
